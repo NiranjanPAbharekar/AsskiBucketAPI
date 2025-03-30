@@ -6,7 +6,8 @@
         "id":1,
         "img":"https://cdn.pixabay.com/photo/2024/02/24/17/37/lemons-8594421_1280.jpg",
         "name":"Lemon Tree Hotel",
-        "location":"New Delhi"
+        "location":"New Delhi",
+        "city":"mumbai"
       }
     ]
   }
