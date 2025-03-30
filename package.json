@@ -1,0 +1,23 @@
+{
+  "name": "asskibucketapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NiranjanPAbharekar/AsskiBucketAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NiranjanPAbharekar/AsskiBucketAPI/issues"
+  },
+  "homepage": "https://github.com/NiranjanPAbharekar/AsskiBucketAPI#readme",
+  "description": "",
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
